@@ -1,0 +1,33 @@
+#form-div{
+    border: 2px solid greenyellow;
+    display:inline-grid;
+    width:30%;
+    margin-left:2%;
+    padding:20px;    
+}
+
+#results-div{
+    border: 2px solid black;
+    display:inline-grid;
+    width:60%;
+    margin-left:2%;
+    padding:10px;
+}
+
+#entry-div{
+    text-align: center;
+    background-color: aqua;
+}
+
+#delete-div{
+    border: 2px solid red;
+    display: grid;
+    margin:20px;
+    width: 30%;
+    margin-left: 2%;
+    padding:20px;
+}
+
+#updateInput{
+    margin-top:5px;
+}
